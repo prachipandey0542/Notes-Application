@@ -4,29 +4,29 @@ This project performs full CRUD operations without using any database. Instead, 
 
 # Project Overview
 This application allows users to:
-Create notes/tasks
-View all saved notes
-Read note content
-Edit note filename
-Delete notes
+1. Create notes/tasks
+2. View all saved notes
+3. Read note content
+4. Edit note filename
+5. Delete notes
 
 Each note is saved as a .txt file inside a dedicated folder, making this project ideal for understanding backend fundamentals, routing, EJS templating, and file-based data handling.
 
 🛠️ Tech Stack
-Node.js – JavaScript runtime
-Express.js – Backend framework
-EJS – Template engine for UI rendering
-File System (fs) – For file-based CRUD operations
-HTML & CSS – UI structure and styling
+1. Node.js -->  JavaScript runtime
+2. Express.js -->  Backend framework
+3. EJS -->  Template engine for UI rendering
+4. File System (fs) -->  For file-based CRUD operations
+5. HTML & CSS -->  UI structure and styling
 
 ⚙️ Features
-Create notes with title and content
-Automatically generates .txt files
-Displays all notes dynamically
-Read note content using EJS
-Rename note files
-Delete notes permanently
-No database required
+1. Create notes with title and content
+2. Automatically generates .txt files
+3. Displays all notes dynamically
+4. Read note content using EJS
+5. Rename note files
+6. Delete notes permanently
+7. No database required
 
 ▶️ How to Run the Project
 1. Clone the repository                -->         git clone <your-github-repo-link>
@@ -37,10 +37,10 @@ No database required
 
 📌 Purpose of This Project
 This project is built purely for practice to strengthen understanding of:
-Backend routing
-Server-side rendering using EJS
-File-based data handling
-Express middleware
-CRUD logic without databases
+1. Backend routing
+2. Server-side rendering using EJS
+3. File-based data handling
+4. Express middleware
+5. CRUD logic without databases
 
 It serves as a foundation before moving to database-driven applications like MongoDB or MySQL.
