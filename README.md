@@ -46,5 +46,6 @@ This project is built purely for practice to strengthen understanding of:
 It serves as a foundation before moving to database-driven applications like MongoDB or MySQL.
 
 Project Screenshot :
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efac5a3f-8164-45f1-b96e-306cf52c1d06" />
+<img width="1891" height="960" alt="image" src="https://github.com/user-attachments/assets/edd1b357-c0ff-4501-9d4a-e9a7d09c9df1" />
+
 
