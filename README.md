@@ -45,6 +45,8 @@ This project is built purely for practice to strengthen understanding of:
 
 It serves as a foundation before moving to database-driven applications like MongoDB or MySQL.
 
+Live Link : https://notes-application-mufc.onrender.com/
+
 Project Screenshot :
 <img width="1891" height="960" alt="image" src="https://github.com/user-attachments/assets/edd1b357-c0ff-4501-9d4a-e9a7d09c9df1" />
 
